@@ -1,5 +1,10 @@
 # REcursion フロントエンドチーム開発（上級者用）　チームA
 
+##　参加メンバー
+- https://github.com/Teradad41
+- https://github.com/YasuhiroNagahama
+- https://github.com/Naonao3
+
 ## 概要
 - トランプゲーム
   - ブラックジャック
